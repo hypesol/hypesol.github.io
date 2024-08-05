@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Abba Patio",
+        "endDate": "NEVER",
+        "title": "AF10",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=919747&m=81373&u=233101",
+        "category": "coupon",
+        "description": "Abba patio! 10% off with code AF10. Shop now!",
+        "couponCode": "AF10"
+    },
+    {
+        "merchantName": "Abba Patio",
+        "endDate": "NEVER",
+        "title": "Affiliate Special Sale",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=776330&m=81373&u=233101",
+        "category": "",
+        "description": "Affiliate Special Sale! Extra $10 Off on Your First Order Over $70! Code: Min70. Buy Your Home &amp; Garden Furnitures on abbapatio.com!",
+        "couponCode": "Min70"
+    },
+    {
+        "merchantName": "Abba Patio",
+        "endDate": "NEVER",
+        "title": "Furniture Sale",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=775948&m=81373&u=233101",
+        "category": "",
+        "description": "Furniture Hot Sale! 20% Off on All Tables &amp; Chairs! Code: MD20.",
+        "couponCode": "MD20"
+    }
+]

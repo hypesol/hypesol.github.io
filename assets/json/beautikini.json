@@ -1,0 +1,38 @@
+[
+    {
+        "merchantName": "Beautikini",
+        "endDate": "01/05/2028",
+        "title": "Buy Two, Get a Free Eco-Tote!",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1102843&m=152262&u=233101",
+        "category": "Period Swimwear",
+        "description": "Enhance your shopping experience with us! Purchase any two items and receive an exclusive Eco-Tote Bag for free. Perfect for your sustainable lifestyle needs.",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "Beautikini",
+        "endDate": "29/04/2025",
+        "title": "Get 10% Off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1102771&m=152262&u=233101",
+        "category": "Period Swimwear",
+        "description": "Unlock an exclusive 10% discount on your first purchase with us! Use code GET10 at checkout to save on any product across our store.",
+        "couponCode": "GET10"
+    },
+    {
+        "merchantName": "Beautikini",
+        "endDate": "29/04/2025",
+        "title": "One Order Three Sizes",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1102769&m=152262&u=233101",
+        "category": "Period Underwear",
+        "description": "Purchase three Period Underwear pieces and pay for one. No code needed!",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "Beautikini",
+        "endDate": "28/04/2025",
+        "title": "Summer Sale",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1102524&m=152262&u=233101",
+        "category": "Period Swimwear",
+        "description": "Save 5% on Beautikini with 'SummerSale2024'. Combine with other offers. Stylish, leakproof swimwear for a confident summer.",
+        "couponCode": "SummerSale2024"
+    }
+]

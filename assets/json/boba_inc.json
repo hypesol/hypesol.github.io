@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Boba Inc.",
+        "endDate": "30/04/2030",
+        "title": "20% off bundles",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=932602&m=75108&u=233101",
+        "category": "",
+        "description": "Experience true &quot;Freedom Together&quot; with Boba's safe, stylish babywearing products. Our baby wraps and carriers are ideal for adventures big and small.",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "Boba Inc.",
+        "endDate": "NEVER",
+        "title": "Sign up now to receive 10% off your first order!",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=685156&m=75108&u=233101",
+        "category": "",
+        "description": "Sign up now to receive 10% off your first order!",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "Boba Inc.",
+        "endDate": "NEVER",
+        "title": "Free Shipping for All Orders! ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=685155&m=75108&u=233101",
+        "category": "",
+        "description": "Free Shipping for All Orders! ",
+        "couponCode": ""
+    }
+]

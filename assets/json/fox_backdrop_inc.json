@@ -1,0 +1,20 @@
+[
+    {
+        "merchantName": "FOX BACKDROP INC",
+        "endDate": "23/12/2050",
+        "title": "15% Off Sitewide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=733294&m=90775&u=233101",
+        "category": "",
+        "description": "15% off for all products",
+        "couponCode": "SAS15"
+    },
+    {
+        "merchantName": "FOX BACKDROP INC",
+        "endDate": "23/12/2050",
+        "title": "Free Shipping ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=733245&m=90775&u=233101",
+        "category": "photography",
+        "description": "Free Shipping for Over $150.",
+        "couponCode": ""
+    }
+]

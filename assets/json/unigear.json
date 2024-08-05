@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Unigear",
+        "endDate": "NEVER",
+        "title": "15% OFF SAS affiliates",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=814249&m=74497&u=233101",
+        "category": "Outdoors",
+        "description": "15% OFF for SAS affiliates no limitation sitewide",
+        "couponCode": "Happyoutdoor15"
+    },
+    {
+        "merchantName": "Unigear",
+        "endDate": "NEVER",
+        "title": "15% off Dry Bag",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=799350&m=74497&u=233101",
+        "category": "",
+        "description": "15% off Dry Bag + Free US Shipping!",
+        "couponCode": "happybag15"
+    },
+    {
+        "merchantName": "Unigear",
+        "endDate": "NEVER",
+        "title": "10% Off Sitewide + Free US Shipping!",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=795723&m=74497&u=233101",
+        "category": "Outdoors",
+        "description": "10% Off Sitewide + Free US Shipping!",
+        "couponCode": "special10"
+    }
+]

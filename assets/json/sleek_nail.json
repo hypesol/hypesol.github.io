@@ -1,0 +1,38 @@
+[
+    {
+        "merchantName": "Sleek Nail",
+        "endDate": "01/10/2024",
+        "title": "$5 OFF $75",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1059169&m=95273&u=233101",
+        "category": "",
+        "description": "$5 OFF $75",
+        "couponCode": "SAS5OFF75"
+    },
+    {
+        "merchantName": "Sleek Nail",
+        "endDate": "01/10/2024",
+        "title": "5% OFF ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1059167&m=95273&u=233101",
+        "category": "",
+        "description": "5% OFF",
+        "couponCode": "SAS5"
+    },
+    {
+        "merchantName": "Sleek Nail",
+        "endDate": "01/10/2024",
+        "title": "Buy 1 Get 1 ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1059168&m=95273&u=233101",
+        "category": "",
+        "description": "Buy 1 Get 1 10% OFF",
+        "couponCode": "SASB1G1"
+    },
+    {
+        "merchantName": "Sleek Nail",
+        "endDate": "01/10/2024",
+        "title": "10% OFF Nail Sets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1039585&m=95273&u=233101",
+        "category": "",
+        "description": "10% OFF Nail Sets. No Code Needed!",
+        "couponCode": ""
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "merchantName": "Caley Cosmetics",
+        "endDate": "31/12/2032",
+        "title": "Free Shipping on Orders Over $40",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1103792&m=153771&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "Caley Cosmetics",
+        "endDate": "31/12/2028",
+        "title": "Save 10% when you sign up for our newsletter",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1103747&m=153771&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "WELCOME10"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merchantName": "Slippersin",
+        "endDate": "31/12/2024",
+        "title": "Buy 4 items or more, 20% off ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1096977&m=107404&u=233101",
+        "category": "",
+        "description": "Buy 4 items or more, 20% off sitewide",
+        "couponCode": "ss20"
+    },
+    {
+        "merchantName": "Slippersin",
+        "endDate": "31/12/2024",
+        "title": "Buy 3 items or more, 15% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1096976&m=107404&u=233101",
+        "category": "",
+        "description": "Buy 3 items or more, 15% off sitewide",
+        "couponCode": "ss15"
+    },
+    {
+        "merchantName": "Slippersin",
+        "endDate": "31/12/2024",
+        "title": "Buy 2 items, 10% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1096975&m=107404&u=233101",
+        "category": "",
+        "description": "If you buy 2 items or more, you will enjoy 10% off sitewide",
+        "couponCode": "sale10"
+    },
+    {
+        "merchantName": "Slippersin",
+        "endDate": "31/12/2024",
+        "title": "8% Off Sitewide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1096974&m=107404&u=233101",
+        "category": "",
+        "description": "8% off sitewide, no minimum amount required",
+        "couponCode": "sale8"
+    }
+]

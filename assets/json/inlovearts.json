@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Inlovearts",
+        "endDate": "31/12/2024",
+        "title": "New Items Deal! 20% OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1226534&m=89195&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "NEW20"
+    },
+    {
+        "merchantName": "Inlovearts",
+        "endDate": "20/09/2024",
+        "title": "Inloveartshop Buy Two, Get The Third Free!!! ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1051898&m=89195&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "B21"
+    },
+    {
+        "merchantName": "Inlovearts",
+        "endDate": "NEVER",
+        "title": "order over $39-$99.99, you can get 16% discount",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=875997&m=89195&u=233101",
+        "category": "DIY handmade",
+        "description": "order over $39-$99.99, you can get 16% discount",
+        "couponCode": "W16"
+    }
+]

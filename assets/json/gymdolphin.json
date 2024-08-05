@@ -1,0 +1,47 @@
+[
+    {
+        "merchantName": "GYMDolphin",
+        "endDate": "NEVER",
+        "title": "15% off over $199",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=873119&m=120364&u=233101",
+        "category": "all products",
+        "description": "15% off over $199",
+        "couponCode": "DOL15"
+    },
+    {
+        "merchantName": "GYMDolphin",
+        "endDate": "NEVER",
+        "title": "10% off over $89",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=873115&m=120364&u=233101",
+        "category": "all products",
+        "description": "10% off over $89",
+        "couponCode": "DOL10"
+    },
+    {
+        "merchantName": "GYMDolphin",
+        "endDate": "NEVER",
+        "title": "12% off over $129",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=873117&m=120364&u=233101",
+        "category": "all products",
+        "description": "12% off over $129",
+        "couponCode": "DOL12"
+    },
+    {
+        "merchantName": "GYMDolphin",
+        "endDate": "NEVER",
+        "title": "Extra 8% Off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=873113&m=120364&u=233101",
+        "category": "all products",
+        "description": "Extra 8% Off",
+        "couponCode": "DOLPHIN"
+    },
+    {
+        "merchantName": "GYMDolphin",
+        "endDate": "NEVER",
+        "title": "Subscription Code",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=873089&m=120364&u=233101",
+        "category": "All Products",
+        "description": "Join our email list and get 10% off discounts",
+        "couponCode": "GD10"
+    }
+]

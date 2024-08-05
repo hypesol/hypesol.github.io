@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Elegant Showers",
+        "endDate": "31/12/2024",
+        "title": "8% Off Site-wide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1118888&m=135799&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "SAS8"
+    },
+    {
+        "merchantName": "Elegant Showers",
+        "endDate": "31/08/2024",
+        "title": "8% off for Radiator Heating System",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1116716&m=135799&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "RDS8OFF"
+    },
+    {
+        "merchantName": "Elegant Showers",
+        "endDate": "31/12/2024",
+        "title": "10% OFF for New Customer",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1103371&m=135799&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "SASNEW10"
+    }
+]

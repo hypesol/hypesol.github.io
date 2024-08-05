@@ -1,0 +1,20 @@
+[
+    {
+        "merchantName": "Ezcosplay",
+        "endDate": "NEVER",
+        "title": "10% Off for all regular-priced items(excludes sale items)",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1023697&m=38080&u=233101",
+        "category": "All",
+        "description": "10% Off for all regular-priced items(excludes sale items)",
+        "couponCode": "EZIG10"
+    },
+    {
+        "merchantName": "Ezcosplay",
+        "endDate": "NEVER",
+        "title": "5% Off for all regular-priced items(excludes sale items) ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1023693&m=38080&u=233101",
+        "category": "All",
+        "description": "5% Off for all regular-priced items(excludes sale items) ",
+        "couponCode": "padiscount"
+    }
+]

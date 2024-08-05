@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Lemongor",
+        "endDate": "NEVER",
+        "title": "$180-$30",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1016045&m=139403&u=233101",
+        "category": "",
+        "description": "-$30 On Order Over $180",
+        "couponCode": "LMG30"
+    },
+    {
+        "merchantName": "Lemongor",
+        "endDate": "NEVER",
+        "title": "5%OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1016047&m=139403&u=233101",
+        "category": "",
+        "description": "5% OFF for 2+ items",
+        "couponCode": "LMG5"
+    },
+    {
+        "merchantName": "Lemongor",
+        "endDate": "NEVER",
+        "title": "10%OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1016043&m=139403&u=233101",
+        "category": "",
+        "description": "10%OFF On Order Over $80",
+        "couponCode": "LMG10"
+    }
+]

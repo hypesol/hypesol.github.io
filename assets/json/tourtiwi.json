@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "TourTiwi",
+        "endDate": "01/07/2027",
+        "title": "10% OFF SITEWIDE",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=919970&m=127053&u=233101",
+        "category": "Clothing",
+        "description": "Women's Clothing Flash Sale, Get 10% OFF Sitewide Now!",
+        "couponCode": "SALE10"
+    },
+    {
+        "merchantName": "TourTiwi",
+        "endDate": "01/07/2027",
+        "title": "10% OFF - Autumn Flash Sale",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=919413&m=127053&u=233101",
+        "category": "Clothing",
+        "description": "Women's Clothing Flash Sale, Get 10% OFF Sitewide Now!",
+        "couponCode": "SALE10"
+    },
+    {
+        "merchantName": "TourTiwi",
+        "endDate": "01/07/2027",
+        "title": "$3 Saved Coupon - Tourtiwi",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=919414&m=127053&u=233101",
+        "category": "Clothing",
+        "description": "$3 Saved Coupon, Buy More, Save More!",
+        "couponCode": "SALE3"
+    }
+]

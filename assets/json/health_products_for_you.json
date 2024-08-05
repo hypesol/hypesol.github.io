@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Health Products For You",
+        "endDate": "19/08/2024",
+        "title": "Prime Week Deals",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1153000&m=41404&u=233101",
+        "category": "",
+        "description": "10% off with max all $25",
+        "couponCode": "HPFYP10"
+    },
+    {
+        "merchantName": "Health Products For You",
+        "endDate": "31/12/2027",
+        "title": "Top 5 Bed Rails for Seniors | $10 RD",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=990537&m=41404&u=233101",
+        "category": "Promotions",
+        "description": "$10 RD on Top 5 Bed Rails for Seniors | Min. Purchase of $100",
+        "couponCode": "ART10RD"
+    },
+    {
+        "merchantName": "Health Products For You",
+        "endDate": "31/12/2027",
+        "title": "10 Best Overnight Diapers | $10 RD",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=990536&m=41404&u=233101",
+        "category": "Promotions",
+        "description": "$10 RD on Best Overnight Diapers | Min. Purchase of $100",
+        "couponCode": "ART10RD"
+    }
+]

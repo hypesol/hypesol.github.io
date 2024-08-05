@@ -1,0 +1,38 @@
+[
+    {
+        "merchantName": "Binoid CBD",
+        "endDate": "NEVER",
+        "title": "SIMPLYCODES",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=926188&m=103142&u=233101",
+        "category": "",
+        "description": "15% Off Your Order!",
+        "couponCode": "SIMPLYCODES"
+    },
+    {
+        "merchantName": "Binoid CBD",
+        "endDate": "NEVER",
+        "title": "BINOID20 - 20% OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=905475&m=103142&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "BINOID20"
+    },
+    {
+        "merchantName": "Binoid CBD",
+        "endDate": "29/07/2025",
+        "title": "Use WELCOME15 for 15% off first order of Binoid brand products",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=814550&m=103142&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "WELCOME15"
+    },
+    {
+        "merchantName": "Binoid CBD",
+        "endDate": "29/07/2025",
+        "title": "Use BINOID10 for 10% off all future orders",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=814551&m=103142&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "BINOID10"
+    }
+]

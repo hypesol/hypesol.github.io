@@ -1,0 +1,65 @@
+[
+    {
+        "merchantName": "DYUCycle",
+        "endDate": "10/09/2024",
+        "title": "DYUST200",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1216399&m=117484&u=233101",
+        "category": "ebike",
+        "description": "200 euros discount, quantity 50,for Stroll1",
+        "couponCode": "DYUST200"
+    },
+    {
+        "merchantName": "DYUCycle",
+        "endDate": "10/09/2024",
+        "title": "DYUC6200",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1216400&m=117484&u=233101",
+        "category": "ebike",
+        "description": "200 euros discount, quantity 50,for C6PRO",
+        "couponCode": "DYUC6200"
+    },
+    {
+        "merchantName": "DYUCycle",
+        "endDate": "30/09/2034",
+        "title": "DYU-X(eu)",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1089549&m=117484&u=233101",
+        "category": "",
+        "description": "Platform exclusive discount code,6% Off,for all ebikes",
+        "couponCode": "DYU-X"
+    },
+    {
+        "merchantName": "DYUCycle",
+        "endDate": "30/06/2029",
+        "title": "DYU-X(us)",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1111020&m=117484&u=233101",
+        "category": "",
+        "description": "Everyone can get a 6% discount, applicable to all electric bicycles",
+        "couponCode": "DYU-X"
+    },
+    {
+        "merchantName": "DYUCycle",
+        "endDate": "30/04/2029",
+        "title": "DYU30",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1102151&m=117484&u=233101",
+        "category": "",
+        "description": "you can get a discount of $30 for all ebikes.Applicable to the US station",
+        "couponCode": "DYU30"
+    },
+    {
+        "merchantName": "DYUCycle",
+        "endDate": "24/10/2024",
+        "title": "DYU40",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1101169&m=117484&u=233101",
+        "category": "",
+        "description": "Everyone can get a 40 euro coupon for purchasing  all ebikes",
+        "couponCode": "DYU40"
+    },
+    {
+        "merchantName": "DYUCycle",
+        "endDate": "30/11/2029",
+        "title": "DYU50",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1086911&m=117484&u=233101",
+        "category": "",
+        "description": "Everyone can get a 50 euro coupon for D3F,A5,C6, A1F,T1,D16,C1",
+        "couponCode": "DYU50"
+    }
+]

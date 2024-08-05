@@ -1,0 +1,38 @@
+[
+    {
+        "merchantName": "Ubackdrop",
+        "endDate": "17/11/2030",
+        "title": "Up To 50% Off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1086897&m=91632&u=233101",
+        "category": "",
+        "description": "RTS Sale",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "Ubackdrop",
+        "endDate": "30/09/2025",
+        "title": "Free Shipping Worldwide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1086896&m=91632&u=233101",
+        "category": "",
+        "description": "Ubackdrop ship to worldwide! Free shipping worldwide.  The total turn around time is 5-15 days.",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "Ubackdrop",
+        "endDate": "NEVER",
+        "title": "Sitewide coupon",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=616468&m=91632&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "Custom"
+    },
+    {
+        "merchantName": "Ubackdrop",
+        "endDate": "NEVER",
+        "title": "First order",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=616438&m=91632&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "ubackdrop"
+    }
+]

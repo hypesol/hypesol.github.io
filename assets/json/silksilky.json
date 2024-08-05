@@ -1,0 +1,38 @@
+[
+    {
+        "merchantName": "SILKSILKY",
+        "endDate": "14/04/2027",
+        "title": "GREEN10",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1004918&m=115600&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "SILKSILKY",
+        "endDate": "31/12/2027",
+        "title": "Free shipping on orders over $59",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=978225&m=115600&u=233101",
+        "category": "",
+        "description": "Free shipping on orders over $59",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "SILKSILKY",
+        "endDate": "31/12/2027",
+        "title": " 40OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=978224&m=115600&u=233101",
+        "category": "",
+        "description": "Receive $40 off purchases over $300 by using code 40OFF at checkout!",
+        "couponCode": "40OFF"
+    },
+    {
+        "merchantName": "SILKSILKY",
+        "endDate": "31/12/2027",
+        "title": "HELLO10",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=978223&m=115600&u=233101",
+        "category": "",
+        "description": "Receive 10% off your first purchase",
+        "couponCode": "HELLO10"
+    }
+]

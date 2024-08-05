@@ -1,0 +1,92 @@
+[
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "Get 6% Off For Summer Dresses",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=921222&m=127723&u=233101",
+        "category": "dresses ",
+        "description": "Get 6% Off For Summer Dresses",
+        "couponCode": "Dress06"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "10% Off For Winter Boots",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=925591&m=127723&u=233101",
+        "category": "Boots",
+        "description": "10% Off For Winter Boots",
+        "couponCode": "WB10"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "6% Off For All Sweaters",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=935841&m=127723&u=233101",
+        "category": "",
+        "description": "6% Off For Sweaters",
+        "couponCode": "SW6"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "Get 8% Off For Sweater Dresses",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=936280&m=127723&u=233101",
+        "category": "",
+        "description": "Get 8% Off For Sweater Dresses",
+        "couponCode": "SD08"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "Get 8% Off For Hoodies &amp; Sweatshirts",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=936897&m=127723&u=233101",
+        "category": "",
+        "description": "Get 8% Off For Hoodies &amp; Sweatshirts",
+        "couponCode": "HS08"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "10% Off For Jackets And Coats",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=969538&m=127723&u=233101",
+        "category": "Jackets",
+        "description": "10% Off For Jackets And Coats",
+        "couponCode": "JC10"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "10% Off For Weekly Clearance",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=969543&m=127723&u=233101",
+        "category": "",
+        "description": "10% Off For Weekly Clearance",
+        "couponCode": "WC10"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "10% Off For Shirts And Blouses",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=969536&m=127723&u=233101",
+        "category": "Shirts",
+        "description": "10% Off For Shirts And Blouses",
+        "couponCode": "SAB10"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "8% Off For Cardigan",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=969535&m=127723&u=233101",
+        "category": "",
+        "description": "8% Off For Cardigan",
+        "couponCode": "Cad08"
+    },
+    {
+        "merchantName": "Shelia",
+        "endDate": "NEVER",
+        "title": "5% Off For Long Sleeve V-neck Color Block Dress",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=967223&m=127723&u=233101",
+        "category": "",
+        "description": "5% Off For Long Sleeve V-neck Color Block Dress",
+        "couponCode": "LS05"
+    }
+]

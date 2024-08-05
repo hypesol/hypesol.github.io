@@ -1,0 +1,92 @@
+[
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/12/2024",
+        "title": "SW 15% OFF for Swimwear",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1092984&m=131322&u=233101",
+        "category": "",
+        "description": "15% OFF over $2000",
+        "couponCode": "Swim15"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/08/2024",
+        "title": "SW 10% OFF for Swimwear",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1092554&m=131322&u=233101",
+        "category": "",
+        "description": "10% OFF over $500",
+        "couponCode": "Swim10"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/12/2024",
+        "title": "SW 12% OFF for Swimwear",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1092551&m=131322&u=233101",
+        "category": "",
+        "description": "12% OFF over $1000",
+        "couponCode": "Swim12"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/08/2024",
+        "title": "SW Spring &amp; Summer $40 OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1092548&m=131322&u=233101",
+        "category": "",
+        "description": "$40 OFF over $800",
+        "couponCode": "SS40"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/08/2024",
+        "title": "SW Spring &amp; Summer $25 OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1092547&m=131322&u=233101",
+        "category": "",
+        "description": "$25 OFF over $500",
+        "couponCode": "SS25"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/08/2024",
+        "title": "SW Spring &amp; Summer $15 OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1092546&m=131322&u=233101",
+        "category": "",
+        "description": "$15 OFF over $300",
+        "couponCode": "SS15"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/12/2024",
+        "title": "wethrift SITEWIDE 15%OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1083278&m=131322&u=233101",
+        "category": "",
+        "description": "15% OFF over $5000",
+        "couponCode": "WE15"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/12/2024",
+        "title": "shareasale 15% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1087197&m=131322&u=233101",
+        "category": "",
+        "description": "15% OFF over $5000",
+        "couponCode": "SAS15"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/12/2024",
+        "title": "shareasale 10% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1087199&m=131322&u=233101",
+        "category": "",
+        "description": "10% OFF over $2500-$4999",
+        "couponCode": "SAS10"
+    },
+    {
+        "merchantName": "Shewin",
+        "endDate": "31/12/2024",
+        "title": "shareasale 5% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1087200&m=131322&u=233101",
+        "category": "",
+        "description": "5% OFF over $1000-$2499",
+        "couponCode": "SAS5"
+    }
+]

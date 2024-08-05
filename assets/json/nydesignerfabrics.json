@@ -1,0 +1,20 @@
+[
+    {
+        "merchantName": "NYDesignerFabrics",
+        "endDate": "09/08/2024",
+        "title": "Summer Sale 25% off Site Wide ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1124058&m=66163&u=233101",
+        "category": "",
+        "description": "25% off Site Wide Sale. Use Code: SUMMER25 at Checkout and Get 25% off Site wide ",
+        "couponCode": "SUMMER25"
+    },
+    {
+        "merchantName": "NYDesignerFabrics",
+        "endDate": "NEVER",
+        "title": "10% OFF Site Wide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=906291&m=66163&u=233101",
+        "category": "",
+        "description": "10% OFF Site Wide -  Use Code: EXTRA10",
+        "couponCode": "EXTRA10"
+    }
+]

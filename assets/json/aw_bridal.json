@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "AW Bridal",
+        "endDate": "27/07/2026",
+        "title": "Get 5 FREE Swatches!",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1121073&m=110229&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "FREESWA"
+    },
+    {
+        "merchantName": "AW Bridal",
+        "endDate": "31/12/2024",
+        "title": "10% OFF Sitewide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1072868&m=110229&u=233101",
+        "category": "AW Category",
+        "description": "",
+        "couponCode": "AWS10"
+    },
+    {
+        "merchantName": "AW Bridal",
+        "endDate": "30/09/2024",
+        "title": "New User Discount",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=947858&m=110229&u=233101",
+        "category": "AW Category",
+        "description": "",
+        "couponCode": "NEWTOAW5"
+    }
+]

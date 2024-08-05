@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Ivy Swimwear",
+        "endDate": "NEVER",
+        "title": "$10 Off Your Order ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=912051&m=119851&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "10off"
+    },
+    {
+        "merchantName": "Ivy Swimwear",
+        "endDate": "NEVER",
+        "title": "10% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=912674&m=119851&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "IVYBABE"
+    },
+    {
+        "merchantName": "Ivy Swimwear",
+        "endDate": "NEVER",
+        "title": "Offer $10 off any order! ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=910506&m=119851&u=233101",
+        "category": "",
+        "description": "$10 off any order",
+        "couponCode": "IVYBABE10"
+    }
+]

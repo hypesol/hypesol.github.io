@@ -1,0 +1,56 @@
+[
+    {
+        "merchantName": "Canada's Gift Baskets",
+        "endDate": "12/04/2024",
+        "title": "Valentines Day Gift Baskets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085718&m=53638&u=233101",
+        "category": "gift baskets",
+        "description": "Valentines gift baskets over $100",
+        "couponCode": "15offgift"
+    },
+    {
+        "merchantName": "Canada's Gift Baskets",
+        "endDate": "12/04/2024",
+        "title": "Gourmet Gift Baskets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085717&m=53638&u=233101",
+        "category": "gift baskets",
+        "description": "Gourmet gift baskets over $100",
+        "couponCode": "15offgift"
+    },
+    {
+        "merchantName": "Canada's Gift Baskets",
+        "endDate": "12/04/2024",
+        "title": "Gourmet Gift Baskets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085716&m=53638&u=233101",
+        "category": "gift baskets",
+        "description": "Gourmet gift baskets under $100",
+        "couponCode": "10offgift"
+    },
+    {
+        "merchantName": "Canada's Gift Baskets",
+        "endDate": "12/04/2024",
+        "title": "Chocolate Gift Baskets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085715&m=53638&u=233101",
+        "category": "chocolate baskets ",
+        "description": "Chocolate gift baskets over $100",
+        "couponCode": "15offgift"
+    },
+    {
+        "merchantName": "Canada's Gift Baskets",
+        "endDate": "12/04/2024",
+        "title": "Chocolate Gift baskets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085714&m=53638&u=233101",
+        "category": "chocolate baskets ",
+        "description": "Chocolate gift baskets under $100",
+        "couponCode": "10offgift"
+    },
+    {
+        "merchantName": "Canada's Gift Baskets",
+        "endDate": "12/04/2024",
+        "title": "Baby Gift baskets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085713&m=53638&u=233101",
+        "category": "Baby Gift Baskets",
+        "description": "Baby Boy and Girl Gift baskets",
+        "couponCode": "15offgift"
+    }
+]

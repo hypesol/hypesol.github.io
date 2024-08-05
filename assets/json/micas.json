@@ -1,0 +1,47 @@
+[
+    {
+        "merchantName": "Micas",
+        "endDate": "31/12/2024",
+        "title": "$20 OFF FOR ORDER $110+",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1216362&m=126430&u=233101",
+        "category": "Coupon",
+        "description": "Limit to customer's first order and one use per customer.",
+        "couponCode": "USE20"
+    },
+    {
+        "merchantName": "Micas",
+        "endDate": "31/12/2024",
+        "title": "$8 OFF FOR ORDER $60+",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1216361&m=126430&u=233101",
+        "category": "Coupon",
+        "description": "Limit to customer's first order and one use per customer.",
+        "couponCode": "USE8"
+    },
+    {
+        "merchantName": "Micas",
+        "endDate": "30/09/2024",
+        "title": "$45 OFF FOR ORDER $199+",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1093036&m=126430&u=233101",
+        "category": "Coupon",
+        "description": "$45 OFF FOR ORDER $199+",
+        "couponCode": "USE45"
+    },
+    {
+        "merchantName": "Micas",
+        "endDate": "30/09/2024",
+        "title": "$25 OFF FOR ORDER $129+",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1093035&m=126430&u=233101",
+        "category": "Coupon",
+        "description": "$25 OFF FOR ORDER $129+",
+        "couponCode": "USE25"
+    },
+    {
+        "merchantName": "Micas",
+        "endDate": "16/02/2028",
+        "title": "First order 12% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=988300&m=126430&u=233101",
+        "category": "Women clothing",
+        "description": "First order 12% off ",
+        "couponCode": "MICAS"
+    }
+]

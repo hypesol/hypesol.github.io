@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "OGLMove",
+        "endDate": "31/12/2024",
+        "title": "$5 Affiliate Code",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1083496&m=127103&u=233101",
+        "category": "",
+        "description": "$5 OFF the first order at OGL",
+        "couponCode": "OGLAFF5"
+    },
+    {
+        "merchantName": "OGLMove",
+        "endDate": "31/12/2024",
+        "title": "Free Shipping",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1116679&m=127103&u=233101",
+        "category": "",
+        "description": "Order over $69",
+        "couponCode": ""
+    },
+    {
+        "merchantName": "OGLMove",
+        "endDate": "31/12/2024",
+        "title": "18% Affiliate Code",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1083497&m=127103&u=233101",
+        "category": "",
+        "description": "18% OFF All Orders",
+        "couponCode": "OGLAFF18"
+    }
+]

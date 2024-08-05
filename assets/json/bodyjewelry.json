@@ -1,20 +1,20 @@
 [
     {
-        "merchantName": "BODYJEWELRY.COM",
-        "endDate": "31/05/2024",
-        "title": "Buy 1 Get 1 50% Off",
+        "merchantName": "BODYJEWELRY",
+        "endDate": "31/08/2024",
+        "title": "20% OFF All Orders",
         "trackingURL": "https://www.shareasale.com/u.cfm?d=1108376&m=24903&u=233101",
         "category": "BodyJewelry/Accessories ",
-        "description": "Buy 1 Get 1 50% Off use code MAY50",
-        "couponCode": "MAY50"
+        "description": " 20% OFF All Orders use code LUXEMODZ",
+        "couponCode": "LUXEMODZ"
     },
     {
-        "merchantName": "BODYJEWELRY.COM",
-        "endDate": "31/05/2024",
-        "title": "Stay and Get 30% Off for Your Purchase",
-        "trackingURL": "https://www.shareasale.com/u.cfm?d=1103676&m=24903&u=233101",
+        "merchantName": "BODYJEWELRY",
+        "endDate": "31/08/2024",
+        "title": "Summer Hot Sale 25% OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1202199&m=24903&u=233101",
         "category": "BodyJewelry/Accessories ",
-        "description": "Stay and Get 30% Off for Your Purchase use code EXIT30",
-        "couponCode": "EXIT30"
+        "description": "Summer Hot Sale 25% OFF All Orders use code SUMMER25",
+        "couponCode": ""
     }
 ]

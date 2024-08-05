@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "KATE BACKDROP",
+        "endDate": "NEVER",
+        "title": "10% OFF Sitewide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=593251&m=89419&u=233101",
+        "category": "photography",
+        "description": "10% Off Entire Order from Katebackdrop, Sitewide",
+        "couponCode": "KATESAS10"
+    },
+    {
+        "merchantName": "KATE BACKDROP",
+        "endDate": "NEVER",
+        "title": "50% OFF for Hand Painted Canvas",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=663539&m=89419&u=233101",
+        "category": "photography",
+        "description": "50% OFF for Featured Hand Painted Canvas, ships from US, only for US address",
+        "couponCode": "SH50%"
+    },
+    {
+        "merchantName": "KATE BACKDROP",
+        "endDate": "04/10/2050",
+        "title": "Free Shipping for Collapsible Backgrounds",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=612947&m=89419&u=233101",
+        "category": "photography",
+        "description": "Free Shipping for all Collapsible Backgrounds",
+        "couponCode": "No code needed"
+    }
+]

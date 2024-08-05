@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Gaby's Bags, LLC.",
+        "endDate": "12/03/2025",
+        "title": "Get Free US Shipping on all orders",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1091188&m=79248&u=233101",
+        "category": "Bags &amp; Wallets",
+        "description": "Get Free US Shipping with no minimum order requirement",
+        "couponCode": "USHIP"
+    },
+    {
+        "merchantName": "Gaby's Bags, LLC.",
+        "endDate": "31/07/2027",
+        "title": "Get 10% off Michael Kors, Kate Spade Bags and Wallets",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1036855&m=79248&u=233101",
+        "category": "",
+        "description": "Get 10% off your entire order, no minimum purchase",
+        "couponCode": "S10"
+    },
+    {
+        "merchantName": "Gaby's Bags, LLC.",
+        "endDate": "NEVER",
+        "title": "Free US Shipping on all orders $150 and above. Quick USPS Priority Mail for your order.",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=685244&m=79248&u=233101",
+        "category": "",
+        "description": "Free US Shipping on all orders $150 and above. Quick USPS Priority Mail for your order.",
+        "couponCode": "FSHIPUS"
+    }
+]

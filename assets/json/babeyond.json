@@ -1,0 +1,47 @@
+[
+    {
+        "merchantName": "BABEYOND",
+        "endDate": "31/12/2024",
+        "title": "FIRST15",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085438&m=130076&u=233101",
+        "category": "WomenClothing",
+        "description": "15% Off for 1st Order $120+",
+        "couponCode": "FIRST15"
+    },
+    {
+        "merchantName": "BABEYOND",
+        "endDate": "31/12/2024",
+        "title": "fs10",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1085439&m=130076&u=233101",
+        "category": "WomenClothing",
+        "description": "Free Expedited Shipping, No Time Limit",
+        "couponCode": "fs10"
+    },
+    {
+        "merchantName": "BABEYOND",
+        "endDate": "NEVER",
+        "title": "SAS15",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=939174&m=130076&u=233101",
+        "category": "WomenClothing",
+        "description": "Save $15 off on order over $150",
+        "couponCode": "SAS15"
+    },
+    {
+        "merchantName": "BABEYOND",
+        "endDate": "NEVER",
+        "title": "SAS5",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=938840&m=130076&u=233101",
+        "category": "WomenClothing",
+        "description": "Save $5 off on order over $50",
+        "couponCode": "SAS5"
+    },
+    {
+        "merchantName": "BABEYOND",
+        "endDate": "NEVER",
+        "title": "SAS10",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=939172&m=130076&u=233101",
+        "category": "WomenClothing",
+        "description": "Save $10 off on order over $100",
+        "couponCode": "SAS10"
+    }
+]

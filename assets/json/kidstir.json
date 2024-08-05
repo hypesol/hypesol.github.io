@@ -1,0 +1,56 @@
+[
+    {
+        "merchantName": "Kidstir",
+        "endDate": "NEVER",
+        "title": "Affiliate - 50% off All One-Time Cooking Kits - All users",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=926398&m=117314&u=233101",
+        "category": "percent",
+        "description": "Affiliate - 50% off All One-Time Cooking Kits - All users",
+        "couponCode": "cook4half"
+    },
+    {
+        "merchantName": "Kidstir",
+        "endDate": "NEVER",
+        "title": "Affiliate - $5 off - All-In-One kits",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=926400&m=117314&u=233101",
+        "category": "fixed_cart",
+        "description": "Affiliate - $5 off - All-In-One kits",
+        "couponCode": "h7zqdkp3"
+    },
+    {
+        "merchantName": "Kidstir",
+        "endDate": "NEVER",
+        "title": "Affiliate - Free Shipping - All Products",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=926395&m=117314&u=233101",
+        "category": "fixed_cart",
+        "description": "Affiliate - Free Shipping - All Products",
+        "couponCode": "shipfree"
+    },
+    {
+        "merchantName": "Kidstir",
+        "endDate": "NEVER",
+        "title": "Affiliate - 1st month free - 3, 6 or 12 month subscription",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=926397&m=117314&u=233101",
+        "category": "fixed_product",
+        "description": "Affiliate - 1st month free - 3, 6 or 12 month subscription",
+        "couponCode": "frpwqd6j"
+    },
+    {
+        "merchantName": "Kidstir",
+        "endDate": "NEVER",
+        "title": "Affiliate - 25% off Subscriptions - New Users Only",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=926396&m=117314&u=233101",
+        "category": "percent",
+        "description": "Affiliate - 25% off Subscriptions - New Users Only",
+        "couponCode": "subscribe25"
+    },
+    {
+        "merchantName": "Kidstir",
+        "endDate": "NEVER",
+        "title": "Affiliate - 10% off Every Day - All users",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=926392&m=117314&u=233101",
+        "category": "percent",
+        "description": "Affiliate - 10% off Every Day - All users",
+        "couponCode": "saveeveryday"
+    }
+]

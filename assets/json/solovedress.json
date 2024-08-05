@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "SoloveDress",
+        "endDate": "07/10/2025",
+        "title": "15% OFF On Order Over $240",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1056719&m=132242&u=233101",
+        "category": "Women Suits",
+        "description": "15% OFF On Order Over $240",
+        "couponCode": "SOLOVE15"
+    },
+    {
+        "merchantName": "SoloveDress",
+        "endDate": "07/10/2025",
+        "title": "10% OFF On Order Over $170",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1056718&m=132242&u=233101",
+        "category": "Women Suits",
+        "description": "10% OFF On Order Over $170",
+        "couponCode": "SOLOVE10"
+    },
+    {
+        "merchantName": "SoloveDress",
+        "endDate": "07/10/2025",
+        "title": "5% OFF On Order Over $120",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1056717&m=132242&u=233101",
+        "category": "Women Suits",
+        "description": "5% OFF On Order Over $120",
+        "couponCode": "SOLOVE5"
+    }
+]

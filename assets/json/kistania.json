@@ -1,0 +1,29 @@
+[
+    {
+        "merchantName": "Kistania",
+        "endDate": "30/06/2025",
+        "title": "Summer Sale -10% OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=924709&m=109561&u=233101",
+        "category": "Best selling",
+        "description": "Checkout page to use directly",
+        "couponCode": "KIS10"
+    },
+    {
+        "merchantName": "Kistania",
+        "endDate": "18/03/2027",
+        "title": "Best selling 25% OFF sitewide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=884677&m=109561&u=233101",
+        "category": "",
+        "description": "Checkout page to use directly",
+        "couponCode": "KISS25"
+    },
+    {
+        "merchantName": "Kistania",
+        "endDate": "31/03/2027",
+        "title": "New coming for winter-Warm Sweaters&amp; Hoodies,Buy more get more off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=790629&m=109561&u=233101",
+        "category": "hoodies",
+        "description": "Coupon for hoodies,sweater and sweatshirts",
+        "couponCode": "KIS10"
+    }
+]

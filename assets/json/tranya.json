@@ -1,0 +1,65 @@
+[
+    {
+        "merchantName": "TRANYA",
+        "endDate": "15/08/2028",
+        "title": "Tranya LS Smartwatch-60% OFF",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1146290&m=93338&u=233101",
+        "category": "Electronics",
+        "description": "60% off sitewide",
+        "couponCode": "TRANYALS"
+    },
+    {
+        "merchantName": "TRANYA",
+        "endDate": "24/01/2030",
+        "title": "60% off -Tranya New Sale",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1119770&m=93338&u=233101",
+        "category": "",
+        "description": "",
+        "couponCode": "Sale60"
+    },
+    {
+        "merchantName": "TRANYA",
+        "endDate": "23/08/2024",
+        "title": "Children's Day 60% off",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1112991&m=93338&u=233101",
+        "category": "Electronics",
+        "description": "Children's Day 60% off",
+        "couponCode": "Children"
+    },
+    {
+        "merchantName": "TRANYA",
+        "endDate": "17/05/2025",
+        "title": "60% OFF Sitewide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1110245&m=93338&u=233101",
+        "category": "Electronics",
+        "description": "60% off sitewide",
+        "couponCode": "Share60"
+    },
+    {
+        "merchantName": "TRANYA",
+        "endDate": "31/08/2024",
+        "title": "Mother's Day 60% off ",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1108605&m=93338&u=233101",
+        "category": "Electronics",
+        "description": "Discount code:Mother",
+        "couponCode": "Mother"
+    },
+    {
+        "merchantName": "TRANYA",
+        "endDate": "17/05/2025",
+        "title": "50% OFF Sitewide",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1016077&m=93338&u=233101",
+        "category": "Electronics",
+        "description": "50% off sitewide",
+        "couponCode": "Share50"
+    },
+    {
+        "merchantName": "TRANYA",
+        "endDate": "15/10/2025",
+        "title": "Shareasale50",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=942233&m=93338&u=233101",
+        "category": "Electronics",
+        "description": "50% off sitewide",
+        "couponCode": "Shareasale50"
+    }
+]

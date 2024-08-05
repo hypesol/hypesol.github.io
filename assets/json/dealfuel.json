@@ -1,0 +1,20 @@
+[
+    {
+        "merchantName": "DealFuel",
+        "endDate": "31/12/2024",
+        "title": "Flash Sale - 25% Extra discount on Vocal References",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1100868&m=85482&u=233101",
+        "category": "percent",
+        "description": "Flash Sale - 25% Extra discount on Vocal References",
+        "couponCode": "vref25off"
+    },
+    {
+        "merchantName": "DealFuel",
+        "endDate": "NEVER",
+        "title": "Exclusive Sale - 25% OFF on AITORKE",
+        "trackingURL": "https://www.shareasale.com/u.cfm?d=1077257&m=85482&u=233101",
+        "category": "percent",
+        "description": "Exclusive Sale - 25% OFF on AITORKE",
+        "couponCode": "aitorke25off"
+    }
+]
